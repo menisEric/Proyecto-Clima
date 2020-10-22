@@ -1,7 +1,7 @@
 # Proyecto-Clima
 App WEB consumiendo una API de climas usando JavaScript 
 
-[file:///C:/Users/User/Desktop/JavaScript/Curso%20JS%20Moderno/36-PROYECTO-Clima/index.html](url)
+[https://zealous-ramanujan-4d35f5.netlify.app/](url)
 
 
 
